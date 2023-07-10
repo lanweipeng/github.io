@@ -1,7 +1,7 @@
 module.exports={
     title:'兰为鹏的博客',
     description:'hh',
-    base:'/',
+    base:'/blog/',
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }]
       ],
