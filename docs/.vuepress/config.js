@@ -13,8 +13,18 @@ module.exports={
         ],
         sidebar:{
             '/interview/': [
-                {title:'前端基础',sidebarDepth:2,children:[{title:'html',path:'/interview/html'}]}
+                {title:'前端基础',sidebarDepth:2,children:[
+                    {title:'html',path:'/interview/html'},
+                    {title:'js',path:'/interview/js'},
+                ]}
             ],
+            '/note/': [
+                {title:'收藏',path:'/note/setup',sidebarDepth:2,children:[{title:'从0搭建类',path:'/note/setup'}]}
+            ],
+            // '/note/':[
+            //     // {title:'前端',},
+            //     {title:'收藏',sidebarDepth:2,children:[{title:'从0搭建类',path:'/note/setup'}]}
+            // ]
         }
       }
 }

@@ -3,16 +3,16 @@ home: true
 title: 首页
 author: 兰为鹏
 data: '2023-7-5'
-horeImage: /logo.png
+horeImage: null
 horeText: null
-tagline: 一个三年的前端开发攻城狮
+tagline: 三年前端开发攻城狮
 actionText: 文章欣赏 ->
 actionLik: /
 features:
-- title: 学习
-  details: 绝对是最好的投资
-- title: 天天埋头做业务
-  details: 无异于浪费生命
-- title: 程序员与程序员的区别
-  details: 在于学习、总结、思考
+- title: 卷死别人
+  details: 成就自己
+- title: 80%的搬砖工作
+  details: 对于自己技术的提升都是没有帮助的
+- title: 优秀的程序员
+  details: 复盘、总结、思考、学习
 ---
