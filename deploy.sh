@@ -9,6 +9,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/lanweipeng/blog.git main:gh-pages
+git push -f https://github.com/lanweipeng/github.io.git main:gh-pages
 
 cd -
